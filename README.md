@@ -4,10 +4,10 @@ Cửa sổ nhỏ luôn nổi trên game để đếm ngược phép bổ trợ v
 
 ## Tải về
 
-**[Tải bản mới nhất](https://github.com/trandinhnamuet/lol-spell-timer-releases/releases/latest)**: tải `LOL.Spell.Timer.exe`, để vào thư mục bất kỳ rồi chạy. Không cần cài Python.
+**[Tải bản mới nhất](https://github.com/trandinhnamuet/lol-spell-timer-releases/releases/latest)**: tải `LOL-Spell-Timer.zip`, giải nén ra thư mục `LOL Spell Timer`, mở `LOL Spell Timer.exe`. Không cần cài Python. (Tệp `LOL-Spell-Timer-update.exe` và `version.json` chỉ dành cho bộ tự cập nhật, không cần tải.)
 
 1. Trong LMHT: **Cài đặt → Video → Chế độ cửa sổ: Không viền (Borderless)**.
-2. Chạy exe. Lần đầu cần mạng để tải ảnh tướng và ảnh phép (~3 MB) từ Data Dragon của Riot vào thư mục `cache/` cạnh exe.
+2. Chạy exe. Lần đầu cần mạng để tải ảnh tướng và ảnh phép (~3 MB) từ Data Dragon của Riot vào thư mục `data` cạnh exe (cấu hình và nhật ký cũng nằm ở đó).
 
 ## Tự cập nhật
 
